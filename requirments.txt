@@ -2,8 +2,8 @@ streamlit
 
 pandas
 
-os
-
 matplotlib
 
 seaborn
+
+
